@@ -44,7 +44,7 @@ gem "logtail-rails"
 gem "skylight", groups: [ :production ]
 
 # Active Storage
-gem "aws-sdk-s3", "~> 1.177.0", require: false
+gem "aws-sdk-s3", "~> 1.203.0", require: false
 gem "image_processing", ">= 1.2"
 
 # Other
